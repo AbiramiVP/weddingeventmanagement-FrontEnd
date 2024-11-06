@@ -1,1 +1,0 @@
-# weddingeventmanagement-FrontEnd
